@@ -1,0 +1,10 @@
+{
+  "name": "yarn_prefix_bug",
+  "version": "1.0.0",
+  "description": "yarn bug with nvm and PREFIX environment variable",
+  "scripts": {
+    "example": "./example.sh"
+  },
+  "author": "peter harding",
+  "license": "ISC"
+}
