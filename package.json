@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "yarn bug with nvm and PREFIX environment variable",
   "scripts": {
+    "preexample": "env | grep PREFIX",
     "example": "./example.sh"
   },
   "author": "peter harding",
