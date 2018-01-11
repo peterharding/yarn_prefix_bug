@@ -1,4 +1,6 @@
 #!/bin/bash
 
-source ~/.bashrc
+export NVM_DIR=~/.nvm
+source $NVM_DIR/nvm.sh
+
 nvm --version
