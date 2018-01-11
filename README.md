@@ -9,3 +9,8 @@
 nvm is not compatible with the "PREFIX" environment variable: currently set to "/usr/local"
 Run `unset PREFIX` to unset it.
 ```
+
+### Log files
+terminal.env.log = `env` from terminal
+npm.env.log = `env` from `npm run example`
+yarn.env.log = `env` from yarn run example
